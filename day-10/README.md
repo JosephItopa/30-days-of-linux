@@ -1,4 +1,4 @@
-# Day 10 - [Topic]
+# Day 10 - [day-10: control operator in linux]
 
 ## Objective
 
